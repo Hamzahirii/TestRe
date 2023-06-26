@@ -1,0 +1,23 @@
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(88, 88, 88);
+}
+
+h2{
+    color: azure;
+}
+
+button{
+    background: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    color: white;
+}
